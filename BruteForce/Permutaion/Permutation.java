@@ -1,4 +1,4 @@
-package BruteForce;
+package BruteForce.Permutaion;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
